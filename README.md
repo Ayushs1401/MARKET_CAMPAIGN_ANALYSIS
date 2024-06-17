@@ -24,3 +24,11 @@ Prerequisites:
 4.Pandas
 5.Numpy
 6.Matplotlib
+Data:
+The dataset used in this analysis is WA_Marketing-Campaign.csv, which includes information about various marketing campaigns and their performance metrics.
+
+Results:
+The results section of the notebook includes detailed visualizations and insights derived from the data analysis. These insights help in understanding the effectiveness of different marketing campaigns and can guide future marketing strategies.
+
+Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
