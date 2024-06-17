@@ -38,5 +38,7 @@ The dataset used in this analysis is WA_Marketing-Campaign.csv, which includes i
 Results:
 The results section of the notebook includes detailed visualizations and insights derived from the data analysis. These insights help in understanding the effectiveness of different marketing campaigns and can guide future marketing strategies.
 
-Contributing
+Contributing:
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+Contact:
+If you have any questions or suggestions, please feel free to reach out to me at ayushs00154@gmail.com  .
